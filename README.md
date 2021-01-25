@@ -19,11 +19,6 @@ How do you deliver this? Here are some guidelines:
 
 * Your app will run as a Node CLI to gather information about each employee.
 
-* Below is an example of what your application may look like. Remember, the styling is completely up to you so try to make it unique.
-
-![Employee Summary 1](./Assets/10-OOP-homework-demo-1)
-![Employee Summary 2](./Assets/10-OOP-homework-demo-2)
-
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
 
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
